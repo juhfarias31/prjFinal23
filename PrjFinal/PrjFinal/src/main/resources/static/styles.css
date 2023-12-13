@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.snowflakes, .lava {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.snowflakes {
+    background-image: url('snowflake.png'); /* Substitua 'snowflake.png' pela imagem dos flocos de neve */
+    animation: snowfall 10s linear infinite;
+}
+
+@keyframes snowfall {
+    from {
+        transform: translateY(0);
+    }
+    to {
+        transform: translateY(100vh);
+    }
+}
+
+.lava {
+    background: url('lava.jpg') center/cover fixed;
+    animation: lavaGlow 2s linear infinite alternate;
+}
+
+@keyframes lavaGlow {
+    from {
+        filter: brightness(1);
+    }
+    to {
+        filter: brightness(1.5);
+    }
+}

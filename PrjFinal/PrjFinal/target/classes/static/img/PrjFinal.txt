@@ -1,0 +1,21 @@
+Nome: Frozen- O duelo de irmãs
+
+Gênero: Luta
+
+Descrição do jogo: Duas irmãs. Até Anna descobrir que tem poderes de fogo, e ficar tão descontrolada a ponto de enfrentar sua própria irmã, Elsa. Entre fogo e gelo, Anna quer se mostrar mais forte, ja Elsa quer apenas o bem de sua irmã. Quem será que vencerá?
+
+Integrantes: Ana Laura
+João Grando
+Júlia Farias
+Luana Gabrielly
+
+Squad: Dev's 6
+
+Comandos: 
+ANNA: AWSD
+Poder Anna: L
+
+ELSA: ◀▶🔼🔽
+Poder Elsa: P
+
+PONTUAÇÃO PARA GANHAR: Acerte o adversário 10 vezes, após o contador fazer a contagem, se 10 pontos, você ganha. Se seu adversário atingir primeiro ele ganha, se não, o jogo roda até um dos dois atingir 10 pontos no contador.
